@@ -41,7 +41,7 @@ PyICU==1.9.8
 PyJWT==1.7.1
 python-apt==1.6.4
 python-debian==0.1.32
-python-gnupg==0.4.1
+python-gnupg==0.4.4
 python-social-auth==0.3.6
 python-xapp==1.4.0
 python3-openid==3.1.0
