@@ -38,7 +38,7 @@ pycups==1.9.73
 pycurl==7.43.0.1
 pygobject==3.26.1
 PyICU==1.9.8
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-apt==1.6.4
 python-debian==0.1.32
 python-gnupg==0.4.1
